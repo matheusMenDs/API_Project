@@ -1,0 +1,129 @@
+{
+    "nome": "Matheus Mendes de Oliveira",
+    "gênero": "Masculino",
+    "idade": 21,
+    "profissão": "Desenvolvedor",
+    "cidade": "Brasília",
+    "habilidades": ["JavaScript", "Node.js", "Json", "React", "Html", "Css", "C++", "C", "SQL", "Kotlin",
+                   "PoweBI", "Java", "Python"],
+    
+    "experiência": {"anos": 16, "empresas": [{
+          "nome": "Banco de Brasília",
+          "cargo": "Desenvolvedor Junior",
+          "tempo": "2 anos",
+          "salario": {
+                "valor": 3000,
+                "moeda": "BRL",
+                "frequencia": "mensal"
+            },
+          "ativo":  false
+        },
+        {
+          "nome": "Nubank",
+          "cargo": "Desenvolvedor Pleno",
+          "tempo": "3 anos",
+          "salario": {
+                "valor": 10000,
+                "moeda": "USD",
+                "frequencia": "mensal"
+            },
+          "ativo": false
+        },
+        {
+          "nome": "PicPay",
+          "cargo": "Desenvolvedor Back-End",
+          "tempo": "6 anos",
+          "salario": {
+                "valor": 7000,
+                "moeda": "BRL",
+                "frequencia": "mensal"
+            },
+          "ativo": false
+        },
+        {
+          "nome": "Apple",
+          "cargo": "Desenvolvedor Full-Stack",
+          "tempo": "5 anos",
+          "salario": {
+                "valor": 20000,
+                "moeda": "USD",
+                "frequencia": "semanal"
+            },
+          "ativo": true
+        }
+      ]
+    },
+    
+    "certificações": [
+        {
+        "nome": "Certificação Power BI",
+        "carga horaria": 100,
+        "instituição": "Udemy",
+        "ano": 2024
+        },
+        {
+        "nome": "Certificação Java Script",
+        "carga horaria": 120,
+        "instituição": "Fundação Bradesco",
+        "ano": 2023
+        },
+        {
+        "nome": "Certificação C++",
+        "carga horaria": 200,
+        "instituição": "Curso em Vídeo",
+        "ano": 2022
+        },
+        {
+        "nome": "Certificação Banco de Dados",
+        "carga horaria": 140,
+        "instituição": "Fundação Bradesco",
+        "ano": 2023
+        }   
+    ],
+    
+    "projetos": [
+      {
+        "nome": "Análise PoweBI",
+        "IDE's":"Power BI",
+        "tecnologias": ["Power BI", "SQL"],
+        "status": "Concluído"
+      },
+      {
+        "nome": "Aplicativo Barbearia",
+        "IDE's":"Android Studio",
+        "tecnologias": ["Kotlin"],
+        "status": "Concluído"
+      },
+      {
+        "nome": "Temporizador",
+        "IDE's":"Android Studio",
+        "tecnologias": ["Kotlin"],
+        "status": "Concluído"
+      },
+      {
+        "nome": "Cardápio Escolar",
+        "IDE's":"Vs Code",
+        "tecnologias": ["Java Script", "Html", "Css"],
+        "status": "Concluído"
+      },
+      {
+        "nome": "Servidor JS",
+        "tecnologias": ["Java Script", "Node.js"],
+        "status": "Em andamento..."
+      },
+      {
+        "nome": "MP3 Player BD",
+        "IDE's":"MySQL",
+        "tecnologias": ["SQL"],
+        "status": "Concluído"
+      }
+    ],
+    
+    "contato": {
+      "email": "matheusmendesdeoliveira100@gmail.com",
+      "telefone": "+55 61 99885-8485",
+      "telefone residencial": "3797-3333",
+      "endereço": "Águas Claras, DF, Avenida dos Tamanduás Bandeiras, Bl 68, Casa 2"
+    }
+}  
+  
